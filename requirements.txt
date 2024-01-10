@@ -1,0 +1,6 @@
+torch >= 2.1.0
+torchvision == 0.16.2
+click == 8.1.7
+matplotlib == 3.8.2
+numpy == 1.26.3
+pytest == 7.4.4
